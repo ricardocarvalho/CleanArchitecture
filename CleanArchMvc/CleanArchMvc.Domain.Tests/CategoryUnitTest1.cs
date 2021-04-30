@@ -55,7 +55,7 @@ namespace CleanArchMvc.Domain.Tests
                 .Throw<CleanArchMvc.Domain.Validation.DomainExceptionValidation>();
         }
 
-        [Fact]
+        //[Fact]
         //public void CreateCategory_WithNullNameValue_ValidObject()
         //{
         //    Action action = () => new Category(1, null);

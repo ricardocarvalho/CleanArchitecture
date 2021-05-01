@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "61DiDYZ0Qh9aGHEUWoI79T3bDYHrLynlHNajEJCly25XYs1VImmlwH2mIqc0IwUXb+iUNm63AGCXv4zlQFaUBQ==",
+  "dgSpecHash": "fIMST0wB6leHv7TbhOQz+rF4Eid3qjKik3ObywDhsrttDV+TQf2Nu9cET5+AvNBvOoiAwQ/3Og7dmXsI+uJpmA==",
   "success": true,
   "projectFilePath": "D:\\git\\CleanArchitecture\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

@@ -2,6 +2,7 @@ D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net5.0\Clean
 D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net5.0\CleanArchMvc.Domain.dll
 D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net5.0\ref\CleanArchMvc.Domain.dll
 D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
+D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.csprojAssemblyReference.cache
 D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
 D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.AssemblyInfoInputs.cache
 D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.AssemblyInfo.cs
@@ -9,4 +10,3 @@ D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\Clean
 D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.dll
 D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\ref\CleanArchMvc.Domain.dll
 D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.pdb
-D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.csprojAssemblyReference.cache

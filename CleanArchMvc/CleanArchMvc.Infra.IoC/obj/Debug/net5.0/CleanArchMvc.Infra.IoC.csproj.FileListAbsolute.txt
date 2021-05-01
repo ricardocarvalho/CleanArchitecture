@@ -1,4 +1,6 @@
 D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.deps.json
+D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.runtimeconfig.json
+D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.runtimeconfig.dev.json
 D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.dll
 D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\ref\CleanArchMvc.Infra.IoC.dll
 D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.pdb
@@ -17,3 +19,4 @@ D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\Cl
 D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.dll
 D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\ref\CleanArchMvc.Infra.IoC.dll
 D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.pdb
+D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.genruntimeconfig.cache

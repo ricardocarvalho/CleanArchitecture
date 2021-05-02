@@ -9,4 +9,3 @@ D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\Clean
 D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.dll
 D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\ref\CleanArchMvc.Domain.dll
 D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.pdb
-D:\git\CleanArchitecture\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.csprojAssemblyReference.cache

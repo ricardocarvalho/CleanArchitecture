@@ -5,11 +5,11 @@ Boas práticas que aplicadas permitem criar aplicações ASP .NET Core com uma a
 
 A solução do projeto ficou dividido da seguinte forma:
 
-Domain: Onde ficam as regras de negócio;
-Application: Onde ficam regras de serviços.
-Infra.Data: Onde ficam a lógica para acessos a dados;
-Infra.IoC: Realiza a injeção de dependência. Permitindo o baixo acomplamento entre as camadas.
-WebUI: Representando a camada da aplicação.
+- Domain: Onde ficam as regras de negócio;
+- Application: Onde ficam regras de serviços.
+- Infra.Data: Onde ficam a lógica para acessos a dados;
+- Infra.IoC: Realiza a injeção de dependência. Permitindo o baixo acomplamento entre as camadas.
+- WebUI: Representando a camada da aplicação.
 
 ![image](https://user-images.githubusercontent.com/5721182/116815990-8f8e8d80-ab36-11eb-8a9b-1e3c5840d9e5.png)
 

@@ -3,6 +3,11 @@ Principais conceitos relacionados com a Clean Architecture.
 
 Boas práticas que aplicadas permitem criar aplicações ASP .NET Core com uma arquitetura limpa.  Os fundamentos apresentados baseiam-se na Clean Architecture que refere-se à organização do projeto de forma que seja fácil de entender e fácil de mudar conforme o projeto cresce. Isso não acontece por acaso. É preciso um planejamento intencional para que isso ocorra.
 
+- Aplicado alguns dos conceitos DDD;
+- Criado projeto para testes unitários - XUnit;
+- Aplicado CQRS - Separando comandos (insert, update e delete) de consultas;
+- Aplicado EF Core - Code-First.
+
 A solução do projeto ficou dividido da seguinte forma:
 
 - Domain: Onde ficam as regras de negócio;
@@ -16,12 +21,6 @@ A solução do projeto ficou dividido da seguinte forma:
 Fluxo de atendimento de uma solicitação da nossa aplicação. Uma visão global:
 
 ![image](https://user-images.githubusercontent.com/5721182/116816189-5571bb80-ab37-11eb-996f-1afb50b0d287.png)
-
-
-- Aplicado alguns dos conceitos DDD;
-- Criado projeto para testes unitários - XUnit;
-- Aplicado CQRS - Separando comandos (insert, update e delete) de consultas;
-- Aplicado EF Core - Code-First.
 
 Requisitos para o ambiente:
 .NET Core 5.0;

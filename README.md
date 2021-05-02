@@ -13,6 +13,11 @@ A solução do projeto ficou dividido da seguinte forma:
 
 ![image](https://user-images.githubusercontent.com/5721182/116815990-8f8e8d80-ab36-11eb-8a9b-1e3c5840d9e5.png)
 
+Fluxo de atendimento de uma solicitação da nossa aplicação. Uma visão global:
+
+![image](https://user-images.githubusercontent.com/5721182/116816189-5571bb80-ab37-11eb-996f-1afb50b0d287.png)
+
+
 - Aplicado alguns dos conceitos DDD;
 - Criado projeto para testes unitários - XUnit;
 - Aplicado CQRS - Separando comandos (insert, update e delete) de consultas;

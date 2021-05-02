@@ -23,6 +23,6 @@ Fluxo de atendimento de uma solicitação da nossa aplicação. Uma visão globa
 ![image](https://user-images.githubusercontent.com/5721182/116816189-5571bb80-ab37-11eb-996f-1afb50b0d287.png)
 
 Requisitos para o ambiente:
-.NET Core 5.0;
-Microsoft SQL Server 2019 Express - Edição gratuita do SQL Server;
-Visual Studio 2019 - Utilizado a versão 16.9.3.
+- .NET Core 5.0;
+- Microsoft SQL Server 2019 Express - Edição gratuita do SQL Server;
+- Visual Studio 2019 - Utilizado a versão 16.9.3.

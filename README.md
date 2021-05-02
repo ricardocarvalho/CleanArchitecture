@@ -26,3 +26,10 @@ Requisitos para o ambiente:
 - .NET Core 5.0;
 - Microsoft SQL Server 2019 Express - Edição gratuita do SQL Server;
 - Visual Studio 2019 - Utilizado a versão 16.9.3.
+
+![image](https://user-images.githubusercontent.com/5721182/116826155-02b0f780-ab69-11eb-9e44-e17140fac602.png)
+
+![image](https://user-images.githubusercontent.com/5721182/116826172-14929a80-ab69-11eb-93ca-ba22e44efab8.png)
+
+![image](https://user-images.githubusercontent.com/5721182/116826178-22e0b680-ab69-11eb-9ba1-a9a60a44264c.png)
+

@@ -31,5 +31,6 @@ Requisitos para o ambiente:
 
 ![image](https://user-images.githubusercontent.com/5721182/116826172-14929a80-ab69-11eb-93ca-ba22e44efab8.png)
 
-![image](https://user-images.githubusercontent.com/5721182/116826178-22e0b680-ab69-11eb-9ba1-a9a60a44264c.png)
+![image](https://user-images.githubusercontent.com/5721182/116826203-3b50d100-ab69-11eb-8f71-3308dc82de4a.png)
+
 

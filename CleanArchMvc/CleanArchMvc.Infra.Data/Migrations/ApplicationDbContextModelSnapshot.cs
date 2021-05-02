@@ -15,7 +15,7 @@ namespace CleanArchMvc.Infra.Data.Migrations
 #pragma warning disable 612, 618
             modelBuilder
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
-                .HasAnnotation("ProductVersion", "5.0.5")
+                .HasAnnotation("ProductVersion", "5.0.4")
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
             modelBuilder.Entity("CleanArchMvc.Domain.Entities.Category", b =>
@@ -33,6 +33,23 @@ namespace CleanArchMvc.Infra.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Categories");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Name = "Material Escolar"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Name = "Eletrônicos"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Name = "Acessórios"
+                        });
                 });
 
             modelBuilder.Entity("CleanArchMvc.Domain.Entities.Product", b =>

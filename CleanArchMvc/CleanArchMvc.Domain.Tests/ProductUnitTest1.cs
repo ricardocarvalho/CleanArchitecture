@@ -60,6 +60,7 @@ namespace CleanArchMvc.Domain.Tests
             action.Should().NotThrow<NullReferenceException>();
         }
 
+
         [Fact]
         public void CreateProduct_WithEmptyImageName_NoDomainException()
         {
